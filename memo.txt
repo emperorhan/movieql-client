@@ -1,0 +1,3 @@
+appllo boost는 클라이언트 셋팅을 매우 간단하게 해줌
+
+graphql-tag : 프론트엔드에서 graphQL을 작성하는 방법
